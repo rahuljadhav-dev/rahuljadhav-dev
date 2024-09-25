@@ -44,13 +44,4 @@ I love solving logic puzzles and brain teasers!
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="linkedin.com/in/rahulpjadhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuljadhav-dev" height="30" width="30" /></a>
-<a href="mailto:rahuljadhav.dev@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
-</p>
-
-
-
-<!---
-rahuljadhav-dev/rahuljadhav-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="linkedin.com/in/rahulpjadhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuljadhav-dev" height="30" 
