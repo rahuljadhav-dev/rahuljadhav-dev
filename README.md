@@ -34,9 +34,7 @@ I'm a passionate **Java Full-Stack Developer** with a focus on building dynamic 
 ---
 
 ### 💼 Projects
-- **[Online Book Store](https://github.com/rahuljadhav-dev/bookstore)**: A fully functional book store built with Java, JSP, and MySQL.
-- **[Employee Management System](https://github.com/rahuljadhav-dev/employee-management)**: A Spring Boot application for managing employees.
-
+- **[SamsTrack_Api](https://github.com/rahuljadhav-dev/bookstore)**: SA Spring Boot application for managing attendace of students.
 ---
 
 ### ⚡ Fun Fact
