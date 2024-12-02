@@ -29,12 +29,12 @@ I'm a passionate **Java Full-Stack Developer** with a focus on building dynamic 
 
 ### 📫 How to Reach Me
 - Email: [rahuljadhav.dev@gmail.com](mailto:rahuljadhav.dev@gmail.com)
-- LinkedIn: [rahuljadhav-dev](https://linkedin.com/in/rahuljadhav-dev)
+- LinkedIn: [rahuljadhav-dev](hlinkedin.com/in/rahulpjadhav)
 
 ---
 
 ### 💼 Projects
-- **[SamsTrack_Api](https://github.com/rahuljadhav-dev/bookstore)**: SA Spring Boot application for managing attendace of students.
+- **[SamsTrack_Api](https://github.com/rahuljadhav-dev/Projects.git)**: SA Spring Boot application for managing attendace of students.
 ---
 
 ### ⚡ Fun Fact
