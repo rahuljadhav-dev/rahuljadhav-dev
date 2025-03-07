@@ -30,6 +30,7 @@ I'm a passionate **Java Full-Stack Developer** with a focus on building dynamic 
 - **[SamsTrack_Api](https://github.com/rahuljadhav-dev/Projects.git)**:Spring Boot application for managing attendace of students.
 - **[Smart email reply generator](https://github.com/rahuljadhav-dev/Smart-Email-Generator.git)**:Smart reply generator using spring boot and react.
 -  **[Polling App](https://github.com/rahuljadhav-dev/Voting-App.git)**:Polling app using Spring boot for backend and angular for frontend.
+-  **[Todo App](https://github.com/rahuljadhav-dev/Todo-App.git)**:todo app using spring mvc approach.
 ---
 
 ### ⚡ Fun Fact
