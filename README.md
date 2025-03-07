@@ -28,6 +28,8 @@ I'm a passionate **Java Full-Stack Developer** with a focus on building dynamic 
 
 ### 💼 Projects
 - **[SamsTrack_Api](https://github.com/rahuljadhav-dev/Projects.git)**:Spring Boot application for managing attendace of students.
+- **[Smart email reply generator]((https://github.com/rahuljadhav-dev/Smart-Email-Generator.git))**:Spring Boot application for managing attendace of students.
+- 
 ---
 
 ### ⚡ Fun Fact
