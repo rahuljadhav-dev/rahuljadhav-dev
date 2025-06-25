@@ -17,7 +17,7 @@ I'm a passionate **Java Full-Stack Developer** who loves building clean, respons
 
 | Backend        | Frontend      | Testing & Tools      | Database    |
 |----------------|----------------|-----------------------|-------------|
-| Java, Spring Boot, Hibernate | HTML, CSS, Angular | Selenium WebDriver, TestNG, Maven, Allure | MySQL |
+| Java, Spring Boot, Hibernate | HTML, CSS, Angular | Selenium WebDriver, TestNG, Maven, Allure | MySQL, MongoDB |
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
